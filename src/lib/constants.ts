@@ -94,6 +94,7 @@ export const DATA = {
         period: "2023 – 2026",
         description:
           "Graduated with honours. Focused on algorithms, distributed systems, and human-computer interaction.",
+        gpa: ""
       },
     ],
  

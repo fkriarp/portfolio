@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { DATA } from "@/lib/constants";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,8 +14,34 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fidev",
-  description: "Fikri Akbar Pratama's portfolio website",
+  title: {
+    default: `${DATA.fullName} — ${DATA.role}`,
+    template: `%s | ${DATA.fullName}`,
+  },
+  description: DATA.description,
+  keywords: ["Full-Stack Developer", "Next.js", "React", "Jakarta", DATA.fullName],
+  authors: [{ name: DATA.fullName }],
+  creator: DATA.fullName,
+  openGraph: {
+    type: "website",
+    locale: "id_ID",
+    url: "https://yourdomain.com",
+    title: `${DATA.fullName} — ${DATA.role}`,
+    description: DATA.description,
+    siteName: DATA.fullName,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${DATA.fullName} — ${DATA.role}`,
+    description: DATA.description,
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  alternates: {
+    canonical: "https://yourdomain.com",
+  },
 };
 
 export default function RootLayout({
