@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@import "../css/animation.css";
+@import "../css/main.css";
+
+:root {
+  --background: #141212;
+  --foreground: #faf7f2;
+  --surfaceground: #1c1a19;
+  --primary: #faf7f2;
+  --secondary: #8E99A3;
+  --accent-orange: #e37546;
+  --accent-lime: #d2fc65;
+  --card: #1c1a19;
+  --border: #2a2826;
+  --muted: #1f1d1c;
+  --muted-foreground: #8E99A3;
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surfaceground: var(--surfaceground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent-orange: var(--accent-orange);
+  --color-accent-lime: var(--accent-lime);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@layer base {
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  ::selection {
+    background: var(--accent-lime);
+    color: var(--background);
+  }
+}

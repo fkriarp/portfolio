@@ -1,0 +1,62 @@
+
+@keyframes avatarWave {
+  0% {
+    border-radius: 58% 42% 31% 69% / 38% 56% 44% 62%;
+    transform: rotate(0deg) scale(1);
+  }
+
+  10% {
+    border-radius: 72% 28% 47% 53% / 54% 33% 67% 46%;
+  }
+
+  20% {
+    border-radius: 36% 64% 52% 48% / 61% 45% 55% 39%;
+    transform: rotate(20deg) scale(1.03);
+  }
+
+  30% {
+    border-radius: 49% 51% 68% 32% / 32% 62% 38% 68%;
+  }
+
+  40% {
+    border-radius: 63% 37% 29% 71% / 70% 41% 59% 30%;
+    transform: rotate(-15deg) scale(0.98);
+  }
+
+  50% {
+    border-radius: 27% 73% 41% 59% / 43% 65% 35% 57%;
+  }
+
+  60% {
+    border-radius: 74% 26% 58% 42% / 36% 52% 48% 64%;
+    transform: rotate(15deg) scale(1.04);
+  }
+
+  70% {
+    border-radius: 45% 55% 34% 66% / 67% 28% 72% 33%;
+  }
+
+  80% {
+    border-radius: 66% 34% 73% 27% / 47% 63% 37% 53%;
+    transform: rotate(-20deg) scale(0.97);
+  }
+
+  90% {
+    border-radius: 39% 61% 46% 54% / 58% 35% 65% 42%;
+  }
+
+  100% {
+    border-radius: 58% 42% 31% 69% / 38% 56% 44% 62%;
+    transform: rotate(0deg) scale(1);
+  }
+}
+
+@keyframes marquee-left {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes marquee-right {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(0%); }
+}

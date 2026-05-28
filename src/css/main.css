@@ -1,0 +1,12 @@
+
+.avatar {
+  width: 250px;
+  background: linear-gradient(135deg, #ff6b6b, #6c5ce7);
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  animation: avatarWave 24s ease-in-out infinite;
+  box-shadow: 0px 0px 2px 8px rgba(128,128,128,0.5);
+}
+
+.show-title {
+  transition: 2s ease-in-out;
+}
