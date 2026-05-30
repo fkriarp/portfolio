@@ -75,11 +75,9 @@ export const DATA = {
         period: "2025 – 2026",
         type: TypeExperience.internship,
         description:
-          "Developed and maintained multiple web-based business applications, including a Dealer Management System (DMS). Built backend systems and business features using CodeIgniter and PostgreSQL, while also contributing to modern web application development with React, Next.js, Laravel, and TypeScript. Collaborated with teams to improve system performance, usability, and scalability.",
+          "Developed and maintained multiple web-based business applications, including a Dealer Management System (DMS). Built backend systems and business features using CodeIgniter and PostgreSQL, while also contributing to modern web application development with React and Laravel. Refactored codebases to improve readability, maintainability, and reduce cognitive complexity.",
         tags: [
           "React",
-          "TypeScript",
-          "Next.js",
           "Laravel",
           "CodeIgniter",
           "PostgreSQL",
@@ -114,10 +112,6 @@ export const DATA = {
       {
         category: "Infrastructure",
         items: ["Docker", "Vercel", "GitHub Actions"],
-      },
-      {
-        category: "Workflow",
-        items: ["Git", "Figma", "Notion", "Zed"],
       },
     ],
 }
