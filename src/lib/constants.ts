@@ -65,16 +65,7 @@ export const DATA = {
         liveUrl: "https://example.com",
         githubUrl: "https://github.com/fkriarp/indo-april.git",
         featured: false,
-      },
-      {
-        title: "Indo April - Kasir App",
-        description:
-          "A cashier and point-of-sale (POS) application designed to manage transactions, product inventory, and sales reporting in real time. Developed with modern web technologies for fast and efficient store operations.",
-        tags: ["Laravel", "PostgreSQL", "Bootstrap", "JavaScript"],
-        liveUrl: "https://example.com",
-        githubUrl: "https://github.com/fkriarp/indo-april.git",
-        featured: false,
-      },
+      }
     ],
 
     experiences: [
