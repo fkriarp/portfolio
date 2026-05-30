@@ -32,9 +32,9 @@ export const DATA = {
           "When I'm not coding, you'll find me contributing to open-source, writing about software architecture, or exploring the outdoors with a camera in hand.",
         ],
         stats: [
-          { label: "Years Experience", value: "4+" },
-          { label: "Projects Shipped", value: "30+" },
-          { label: "Open-Source Repos", value: "12" },
+          { label: "Years Experience", value: "3+" },
+          { label: "Projects Shipped", value: "10+" },
+          { label: "Open-Source Repos", value: "0" },
         ],
     },
 
