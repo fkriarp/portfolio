@@ -15,7 +15,7 @@ export const TypeExperience = {
 export const DATA = {
     fullName: "Fikri Akbar Pratama",
     role: "Full-Stack Developer",
-    avatarUrl: "/personal-logo.png",
+    avatarUrl: "/me.jpeg",
     description: "A passionate developer dedicated to building clean, scalable, and user-centric web applications.",
     shortDescription: "Building clean, scalable, and user-centric web applications.",
     email: "fikri.akbar1p@gmail.com",
