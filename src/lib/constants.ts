@@ -83,6 +83,18 @@ export const DATA = {
           "PostgreSQL",
         ],
       },
+      {
+        company: "PT. Four Best Synergy",
+        role: "Web Developer",
+        period: "2026 – Present",
+        type: TypeExperience.fullTime, 
+        description:
+          "Spearheading the backend development and maintenance of the Dealer Management System (DMS). Focused on engineering robust business features and optimizing database queries using CodeIgniter and PostgreSQL to ensure data integrity and system stability.",
+        tags: [
+          "CodeIgniter",
+          "PostgreSQL",
+        ],
+      },
     ],
  
     education: [
