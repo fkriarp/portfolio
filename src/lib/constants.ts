@@ -85,7 +85,7 @@ export const DATA = {
       },
       {
         company: "PT. Four Best Synergy",
-        role: "Web Developer",
+        role: "Full Stack Developer",
         period: "2026 – Present",
         type: TypeExperience.fullTime, 
         description:
