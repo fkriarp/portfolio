@@ -73,7 +73,7 @@ export const DATA = {
         tags: ["JavaScript", "HTML5", "CSS3", "Algorithms", "Data Structures"],
         liveUrl: "https://hungrabbitry.github.io/dsa-playground/",
         githubUrl: "https://github.com/hungrabbitry/dsa-playground.git",
-        featured: true,
+        featured: false,
       },
     ],
 
