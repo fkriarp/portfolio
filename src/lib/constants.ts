@@ -53,16 +53,16 @@ export const DATA = {
         description:
           "A web-based public complaint management system that enables citizens to submit, track, and manage reports efficiently. Built with responsive UI and secure backend integration to improve public service workflows.",
         tags: ["Laravel", "PostgreSQL", "Bootstrap", "JavaScript"],
-        liveUrl: "https://example.com",
+        liveUrl: "https://hungrabbitry.github.io/deploy-pending/",
         githubUrl: "https://github.com/fkriarp/pengaduan-masyarakat.git",
         featured: false,
       },
       {
-        title: "Indo April - Kasir App",
+        title: "Indo April",
         description:
           "A cashier and point-of-sale (POS) application designed to manage transactions, product inventory, and sales reporting in real time. Developed with modern web technologies for fast and efficient store operations.",
         tags: ["Laravel", "PostgreSQL", "Bootstrap", "JavaScript"],
-        liveUrl: "https://example.com",
+        liveUrl: "https://hungrabbitry.github.io/deploy-pending/",
         githubUrl: "https://github.com/fkriarp/indo-april.git",
         featured: false,
       },
