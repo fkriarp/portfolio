@@ -80,17 +80,21 @@ export const DATA = {
     experiences: [
       {
         company: "PT. Four Best Synergy",
-        role: "Web Developer",
-        period: "2025 – 2026",
+        role: "Web Developer Intern",
+        period: "January 2025 – June 2025",
         type: TypeExperience.internship,
         description:
-          "Developed and maintained multiple web-based business applications, including a Dealer Management System (DMS). Built backend systems and business features using CodeIgniter and PostgreSQL, while also contributing to modern web application development with React and Laravel. Refactored codebases to improve readability, maintainability, and reduce cognitive complexity.",
-        tags: [
-          "React",
-          "Laravel",
-          "CodeIgniter",
-          "PostgreSQL",
-        ],
+          "Contributed to modern full-stack web application development using React and Laravel integrated with PostgreSQL. Built responsive user interface components, implemented business features, and integrated RESTful APIs.",
+        tags: ["React", "Laravel", "PostgreSQL"],
+      },
+      {
+        company: "PT. Four Best Synergy",
+        role: "Web Developer Intern",
+        period: "January 2026 – June 2026",
+        type: TypeExperience.internship,
+        description:
+          "Maintained and enhanced core enterprise modules for the Dealer Management System (DMS) using CodeIgniter and PostgreSQL. Spearheaded codebase refactoring to reduce cognitive complexity, streamline business logic, and improve long-term maintainability.",
+        tags: ["CodeIgniter", "PostgreSQL", "PHP", "Code Refactoring"],
       },
       {
         company: "PT. Four Best Synergy",
