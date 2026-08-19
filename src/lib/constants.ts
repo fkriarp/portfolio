@@ -21,7 +21,7 @@ export const DATA = {
     email: "fikriarp.dev@gmail.com",
     location: "Jakarta, Indonesia",
     socials: {
-        github: "https://github.com/fkriarp",
+        github: "https://github.com/hungrabbitry",
         linkedin: "https://linkedin.com/in/fkriarp",
         instagram: "https://instagram.com/fkriarp",
     },
