@@ -65,7 +65,16 @@ export const DATA = {
         liveUrl: "https://example.com",
         githubUrl: "https://github.com/fkriarp/indo-april.git",
         featured: false,
-      }
+      },
+      {
+        title: "DSA Playground",
+        description:
+          "An interactive laboratory and visualizer for Linear (Array, Linked List, Stack, Queue) and Non-Linear (BST, Graph) Data Structures with real-time memory address animations, Big-O complexity matrix, and live pseudocode execution.",
+        tags: ["JavaScript", "HTML5", "CSS3", "Algorithms", "Data Structures"],
+        liveUrl: "https://hungrabbitry.github.io/dsa-playground/",
+        githubUrl: "https://github.com/hungrabbitry/dsa-playground.git",
+        featured: true,
+      },
     ],
 
     experiences: [
