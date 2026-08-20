@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://fidev.vercel.app/",
+    url: "https://fkriarp.vercel.app/",
     title: `${DATA.fullName} — ${DATA.role}`,
     description: DATA.description,
     siteName: DATA.fullName,
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://fidev.vercel.app/",
+    canonical: "https://fkriarp.vercel.app/",
   },
 };
 
