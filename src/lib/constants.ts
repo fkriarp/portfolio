@@ -21,7 +21,7 @@ export const DATA = {
     email: "fikriarp.dev@gmail.com",
     location: "Jakarta, Indonesia",
     socials: {
-        github: "https://github.com/hungrabbitry",
+        github: "https://github.com/fkriarp",
         linkedin: "https://linkedin.com/in/fkriarp",
         instagram: "https://instagram.com/fkriarp",
     },
@@ -53,7 +53,7 @@ export const DATA = {
         description:
           "A web-based public complaint management system that enables citizens to submit, track, and manage reports efficiently. Built with responsive UI and secure backend integration to improve public service workflows.",
         tags: ["Laravel", "PostgreSQL", "Bootstrap", "JavaScript"],
-        liveUrl: "https://hungrabbitry.github.io/deploy-pending/",
+        liveUrl: "https://fkriarp.github.io/deploy-pending/",
         githubUrl: "https://github.com/fkriarp/pengaduan-masyarakat.git",
         featured: false,
       },
@@ -62,7 +62,7 @@ export const DATA = {
         description:
           "A cashier and point-of-sale (POS) application designed to manage transactions, product inventory, and sales reporting in real time. Developed with modern web technologies for fast and efficient store operations.",
         tags: ["Laravel", "PostgreSQL", "Bootstrap", "JavaScript"],
-        liveUrl: "https://hungrabbitry.github.io/deploy-pending/",
+        liveUrl: "https://fkriarp.github.io/deploy-pending/",
         githubUrl: "https://github.com/fkriarp/indo-april.git",
         featured: false,
       },
@@ -71,8 +71,8 @@ export const DATA = {
         description:
           "An interactive laboratory and visualizer for Linear (Array, Linked List, Stack, Queue) and Non-Linear (BST, Graph) Data Structures with real-time memory address animations, Big-O complexity matrix, and live pseudocode execution.",
         tags: ["JavaScript", "HTML5", "CSS3", "Algorithms", "Data Structures"],
-        liveUrl: "https://hungrabbitry.github.io/dsa-playground/",
-        githubUrl: "https://github.com/hungrabbitry/dsa-playground.git",
+        liveUrl: "https://fkriarp.github.io/dsa-playground/",
+        githubUrl: "https://github.com/fkriarp/dsa-playground.git",
         featured: false,
       },
     ],
